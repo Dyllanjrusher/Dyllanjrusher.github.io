@@ -28,4 +28,6 @@ peter piper picked a pickled pepper
 
 ###### IM A TINY HEADING
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 Bon Journee
