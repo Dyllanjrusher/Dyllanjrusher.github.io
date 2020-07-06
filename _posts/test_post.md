@@ -1,0 +1,31 @@
+---
+layout: post
+title: Hello world
+---
+
+so I was wondering how to make a nice looking **blog** post?
+
+-----
+
+I really love [Google](google.com)
+
+Even though google has the following problems:
+
+* its a monopoly
+* its a monopoly
+* its a monopoly
+
+I'm learning alot from [Metis](https://github.com/thisismetis/chi20_ds15)
+
+### Why Metis?
+
+*they have nice instructors
+*blah blah :smiley:
+
+# I'M A BIG HEADING
+
+peter piper picked a pickled pepper
+
+###### IM A TINY HEADING
+
+Bon Journee
